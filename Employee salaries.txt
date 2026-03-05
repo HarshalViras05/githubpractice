@@ -1,2 +1,3 @@
 400rs
 1rs
+no salary
